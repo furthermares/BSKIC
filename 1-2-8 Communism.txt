@@ -1,0 +1,71 @@
+====================
+
+*Broad and Shallow Knowledge for Intellectual Conversations*
+Vol 1. [Reality] Chapter 2. [Economics] Part 8.
+> **[Communism]** - Why communism failed
+Economic systems with minimal government intervention, such as early capitalism and neoliberalism, always benefits capitalists. It’s also because of “structural renovation” we talked about (that ends up workers getting fired when the market isn’t doing so good,) but there’s a separate fundamental reason. It’s the issue of means of production we dealt in [History] chapter.
+Let’s use a simple model. Now B, C, and D are working in A’s café. A cup of coffee is 5 dollars. 3 dollars is a fixed expense. The remaining 2 dollars are split. 1 dollar goes to workers who make coffee, and 1 dollar goes to A who owns the shop. To further simplify, let’s assume that one worker makes one cup of coffee a day.
+```
+                      🎩      🏬 
+                       A     B C D → produces 1 per day
+     Profit per day  $1 ×3   $1.00
+Living cost per day  $1.20   $0.80
+    Savings per day  $1.80   $0.20
+      After 10 days  $18.00  $2.00
+```
+Then money C earns for making one cup whole day is 1 dollar. Then who much does A earn a day? 1 dollar? Nope. There are 3 workers, so it’s 3 dollars a day. After 10 days, C earns 10 dollars, and A 30 dollars. A earns 3 times as much as workers. You might think it’s within acceptable range, but difference in money one can save is much bigger. Let’s say C’s living expenses are 0.80 dollars. If we say A’s quality living takes 1.5 times more, it’s 1.20 dollars. So money C saves per day is 0.20 dollars, and A’s 1.80 dollars. After 10 days, C saves 2 dollars, A 18 dollars. Substantial income gap is formed. Why does this happen? It’s because A owns means of production, but C doesn’t.
+That’s not all. When café sells coffee, who makes them? It’s all B, C, D’s work. What does A do? Nothing. He just owns the shop. People with means of production earns profit by hiring others, but don’t take work themselves. Of course, they have responsibilities to maintain, review if they’re still producing income, survive in fluctuating market. They merely not participate in labor, nor restricted by worktime and workspace like their workers.
+To summarize, owning means of production means two things. First, it enables owner to continue accumulating wealth. It widens the income gap between workers. And next, it lets owners to not participate in labor. Direct labor from owner is not required.
+
+Then how did A own means of production like his café? It’s simply because he already had it. Can B, C, D also save their money and own one? They can, but it’s not easy. Some might think if C workers twice as hard than others, he will earn twice as much and help him save money. He could. C will earn twice as much as B or D. But it will also earn A more money. Workers can beat other workers, but cannot beat capitalists. The harder workers work, the rich capitalist gets. Not only that, C can’t save all 1 dollar as we saw before. He has to spend most of it as living expenses. Actual amount he can save is extremely small. He can’t catch up to A with such speed, thus cannot own means of production. Because A will preoccupy most of them. It is terrible, but they’re happening right in front of our eyes, and it’s something we already know all too well.
+Let’s go shopping at the mall. We can see people working here. They’re either advertising products, scanning barcodes, or cleaning up the store. They’re working really hard spending most hours in a day. But we know. They work the hardest in the mall, but aren’t the ones who make the most money in the mall. Where’s the owner who takes most of the profit? They’re nowhere to be seen.
+As Marx wrote in his book "The Communist Manifesto", published in 1848:
+  “The average price of wage-labour is the minimum wage, i.e., that quantum of the means of subsistence which is absolutely requisite to keep the labourer in bare existence as a labourer. What, therefore, the wage-labourer appropriates by means of his labour, merely suffices to prolong and reproduce a bare existence.”
+
+Now it makes sense why when I subtract my living cost from my newly earned salary, I get 0.
+Unjust world. No more. We need a revolution. How about this? We take A’s café, and share it between B, C, and D, take the mall from owner we don’t even know the face of and return it to hard working workers. In short, take means of production from capitalists, and give it to workers themselves. If this happens, it will be a just society where profits that capitalists take without labor can be shared among the workers, and they receive a fair price for their labor.
+What do you think? Is this a good idea? And whose idea is this? Let’s take slowly about whether this is a good system. First, this is communist’s idea. A society in which the means of production are taken away from the capitalists and the workers own that means of production. This is the goal of communist revolution. This idea moved the workers, and historical experiments to change society were actually carried out. Soviet Union, East Europe, China, North Korea carried out these experiments.
+
+Communism we normally refer to is usually Marxism. Let’s take a brief look at Marx’s thoughts here. He explained history as conflict between classes, and the end of it would be an ideal society where everyone is equal. This thought is derived from German philosopher Hegel’s *(Hegelian) dialectic*. Hegel saw the whole universe such as human minds and materials develops via dialectic principle. It consists of 3 stages: Thesis, Anti-Thesis, Synthesis. To put it simply, if there’s a thesis, there is bound to be an anti-thesis that opposes it. But both cannot coexist, so they fight. And through the process of this struggle, a new synthesis that overcomes both values emerges. But this synthesis also becomes a thesis, and inevitably the other side of this contradictory relation is produced. This process of thesis, anti-Thesis, and synthesis iterates forever and develops in one direction.
+```
+[Hegelian dialectic]
+              (synthesis)
+           ↗              ↖
+  (synthesis(thesis)) ↔ (anti-thesis)
+      ↗       ↖
+(thesis)  ↔  (anti-thesis)
+```
+Its examples are seen in the history. The apex being in ancient society was a king. The being on the other side that opposes it was a slave. King and slave are so different and opposing beings that they fight each other, and in the end through this conflict, an ambiguous lord who is neither a king nor a slave is born. Lord later becomes an apex. And the opposing side was a serf. They go through fight and produces bourgeois. Hegel thought bourgeoisie were the last and completion of human history.
+```
+[History in dialectic]
+<Modern>           (bourgeoisie)
+                    ↗       ↖
+<Medieval>       (lord) ↔ (serf)
+               ↗       ↖
+<Ancient>   (king) ↔ (slave)
+```
+Marx critically accepted Hegel's philosophy and adds a backstory to the dialectic. He didn’t see bourgeoisie as the last, and thought since they are the apex in modern era, there will be a side that will oppose them. And he prophesied that in the future the proletariat would emerge as the last class that would settle all class conflicts.
+```
+[Marxist dialectic]
+                     (proletariat dictatorship)
+                            ↗        ↖
+<Modern>           (bourgeoisie) ↔ (proletariat)
+                    ↗       ↖
+<Medieval>       (lord) ↔ (serf)
+               ↗       ↖
+<Ancient>   (king) ↔ (slave)
+```
+This process is centered around means of production as we saw in the previous [History] chapter. In each era, owners of means of production moved from land-owning kings to manor-owning lords, and then to factory-owning bourgeoisie. Just as the ruling classes such as kings and lords exploited slaves and serfs, bourgeoisie are exploiting proletariats. Now it’s a turn for proletariats to be free. To do so, capitalist’s means of production must be taken away and the real subject of labor, the workers, must manage them themselves. If means of production were jointly owned by all workers rather than by a specific class, an ideal communist society would be created in which no more power relations and no dominance relations were formed. This was Marx’s thought.
+
+It is an attractive and convincing opinion for workers. Marxism swept across Russia, East Europe, and the whole Asia. In fact, the workers worked together to drive out the capitalists and nationalize the means of production. Now means of production are managed by the state rather than individuals. All people became equal without the means of production. This historical experiment that creates a completely new world battled against capitalism and carried out until the fall of Soviet Union.
+To capitalists, communism looked like a demon who wants to take away their rightly earned money. They hoped the state to protect their property and rights. Accordingly, states that want to maintain capitalism have created an atmosphere in which the people would see the conflict between capitalism and communism as a battle between good and evil. They taught and persuaded that capitalism is the good protecting freedom, and communism is the evil denying freedom. This can be said in the same context as the rulers asking God to justify their domination.
+To this day, word like “commie” are used to degrade certain individual or isolate them from the crowd. Capitalize society otherize communism-related words to make people feel negatively towards communism.
+If so, a thought comes into mind. If the state is painstakingly rejecting communism, wouldn’t it be because it has its own reasons such as protecting our society? Is there a need to pry into something the state is hostile towards? You’re right. Learning about our capitalism is enough.
+The problem is that within capitalism, the boundary is not visible. The relation between capitalists and workers is not apparent with only capitalism. Only when we walk to the boundaries of society and look back can we understand the limits of our society. The reason we must know about communism is to contemplate the limits and true meaning of capitalism more clearly. Then we can make the capitalism we’re living in a little bit better. Understanding communism does not mean becoming a communist. Communism is a system we must know for capitalism. There is nothing in this world that you should never know.
+  
+Let’s summarize. Communism in short is an idea of jointly owning means of production by workers. It is because when one monopolizes means of production, they could monopolize power, and dominate or exploit others. To abolish the unequal relationship of dominance–subordination, means of production cannot be owned by individuals. So in communist society, all means of production are managed by the state.
+How does it sound? Experiments of creating inevitably equal society have seemingly failed so far. There are various interpretations of the reason behind it. First, there’s a view criticizing excessive trust in human nature. Not all people seek equality. Some people try to make a difference from others. Either financially or politically, people instinctively value class and rank. Even in a society where the majority seeks equality, when the minority pursues inequality, it is difficult to maintain an equal relationship. Communism was destined to fail because it started from the optimistic and impossible premise of human nature that everyone wants to live in equality and peace.
+Second interpretation is more fundamental. It can be found in problem of nationalizing means of production. The argument that the means of production are jointly owned rather than privately owned seems reasonable at first glance, but in reality it is not possible. Because the idea of “state” is more closer to abstract than real. There is no concrete existence of the state. It is a notion. The state that exists as an idea cannot own the means of production. In other words, even if means of production are nationalized, the being that owns and redistributes outputs in reality are people. So, a minority who manage it gain the power. So proletariat dictatorship that Marxism pursued cannot be realized. Only a dictator will spawn who has absolute control over all means of production across the state.
+Third reason is a failure of government-led centrally planned economy. We previously saw there are few problems in excessive government intervention in the market. Communism is a system in which the entire economy is led entirely by the government. The complex and sensitive market situation is controlled by a small number of people from the government. This entails various risks. It is difficult to deal with problems that are not in the plan, such as mistakes in judgment and unpredictable variables. Such centralized control can lead to market distortion and inefficiency, leading to government failure.
+The last reason could be capitalism’s interference. Capitalism's biggest task is to solve the oversupply issue, and it requires expanding the market to create more consumption. But communist society cannot be a capitalist market. This is because communism basically does not accept the existence of capitalists and operates in a closed state. The spread of communist countries on the planet was bound to become a threat to capitalist countries. Capitalism and communism continued systemic competition and military confrontation, and as a result, the effective attack and obstruction of the capitalist state resulted in the downfall of the communist state.
+====================

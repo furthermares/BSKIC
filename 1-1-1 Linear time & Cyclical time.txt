@@ -1,0 +1,27 @@
+====================
+
+*Broad and Shallow Knowledge for Intellectual Conversations*
+Vol 1. Ch 1. *[History]*
+> **[Linear time & Cyclical time]**
+This book's journey follows the style of 'Time'.
+First perspective on time is that it's __linear__. It travels through past, present, and future linearly in one way. You can't unbreak the glass that fell off the table.
+Second perspective is that it's __cyclical__. You wake up in the morning, begrudgingly go to work, come back home, go to sleep, wake up in the next morning again, and it's time to go to work again. We don't know why, but the day goes through morning, day, night, and morning again. Not only a day, but a week, a month, and seasons. People who thinks it's linear might say tomorrow is a different day. But you know it will be the same pattern day after day. Tomorrow might be new, but it won't be completely new. Like this, the perspective is called 'Cyclical time'.
+Third perspective is entirely possible; combine the two and you get a model that looks like a spring.
+These two(2) perspectives on time each shaped western and eastern view on time. Linear time shaped western, and Cyclic eastern. (Translators note: Western is the US/Europe, and Eastern Asia) More specifically, western Christianity is based on Linear time. In Christianity, a man is born, dies, then goes to afterlife whether that is heaven or hell. On the other hand, eastern view on life is based on Cyclical time. In Buddhism, a man is born, dies, then goes through a middle state called 'Bardo', then rebirths. Like how after winter spring comes, life is too.
+```
+Time
+¦§ is Linear (Western) - Christianity
+¦¦ is Cyclical (Eastern) - Buddhism
+```
+
+This different perspective on time led to different perspective of history.
+First, Linear perspective will lead to 'Linear history' where history progresses forever. Like linear perspective on time, it doesn't accept 'back to basics'. History goes through past, then better present, then better future. Yesterday is telephone, today folder phone, tomorrow smartphone. Technology and civilization never regresses but progresses. There is no way there will be a market where telephone dominates after smartphones. Optimism on humanity's progressive nature is the characteristic of Linear history', and it will form the basis of western ideas.
+Next, Cyclical time will lead to 'Cyclical history' where history repeats in big picture. History in Cyclical history doesn't keep on progressing, but instead repeats progression and regression. This is the characteristic of eastern history. Like how revolutions in the East has always been dynastic revolution (where only the dynasty changes but not the structure), and the ways of life never changes or progresses fundamentally.
+That doesn't that the cyclical view on history is senile. You can ask people with linear view on history who boasts about technology advancements, "I acknowledge that the tomorrow is smartphones. But does that mean you're happier than yesterday?" What we wear and use has changed, but the endless time spent on eating, drinking, loving, hating in life has always been repetitive, not progressive.
+```
+Time
+¦§ is Linear -> Linear(progressive) history
+¦¦ is Cyclical -> Cyclical(repetitive) history
+```
+These are the two perspectives on time, and how the two perspectives on history are born. The perspective we will use is Linear history. In other words, we won't just list historical happenings, but see how it progressed with a sense of direction.
+Now we are ready to time travel to human history.

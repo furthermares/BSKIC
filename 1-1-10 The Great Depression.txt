@@ -1,0 +1,53 @@
+*Broad and Shallow Knowledge for Intellectual Conversations*
+Vol 1. Part 1. [History] Chapter 10.
+> **[The Great Depression]** - Price War led to the Great Depression
+  After the war, B accumulated more wealth and expanded his factory. The more he produces, the richer he will get. Post war, world economy boomed, but after some time they faced the same problem they faced before. Shoes started piling up again. He visited his colonies to sell more shoes, but to unsurprisingly they also have enough shoes to make a soup. B was in a pinch again. We  have to come back to our first problem.
+  We looked at two possible solutions. One was pioneering colonies, and the other is cutting prices. We already colonized enough that there's no country left to colonize. If there were extraterrestrial beings, the most happy people would be bourgeoisie. But since that's unlikely, so now's the time to look at the second solution. Cutting prices.
+```
+     material    $3
+?? { maintenance $3
+     wage        $3
+     profit      $1
+```
+
+After long consideration, B decided to cut the shoe price. He can keep the market by producing higher quality and cheaper price than rival companies. But it wasn't all that easy. He's currently selling shoes for $10 each, and shoe material and factory maintenance costs - which takes up more than half - are not something he can reduce all he wants. Costs B can choose to reduce are wage and his own profit. Here, reducing his profit is meaningless. If he earns no profit, why is he running the factory? The reason he's running the factory is not to pay out workers, but to earn money for B himself. What B can reduce is worker's $3 wage. So B had no choice but to adjust their pay. He fired C1 who had the lowest efficiency and reduced wage from $3 to $2. Now shoe price became $10 to $9. For a while shoes seemed to sell well, but after sometime the sales dropped again. Turns out rival company lowered their price to $8.5. B held back his tears and fired C2. Now the price became $8.
+  But the unexpected crisis was happening at different side of the market where B didn't notice. Cutting prices was not something only B, nor shoe companies. Oversupply was happening all across the society people were getting fired left and right in the whole industry. The problem was that workers are both workers and consumers. Fired workers mean consumers with no spending power. In other words, as the number of unemployed people increased, consumption decreased. Here, underconsumption meant supply got relatively bigger than demand, and to decrease supply the whole industry had to compete with price cutting. Again, to lower the price workers had to be fired, and fired workers lost the ability to spend and got lost in the vicious cycle of not being able to create demand. 
+```
+Oversupply ¡æ Price wars ¡æ Pay adjustment ¡æ Mass unemployment ¡æ decrease in consumption ¡æ Oversupply ¡æ ...
+```
+
+This is what happened to New York stock market where it crashed and destroyed the whole world economy in 1929. After the war demand exploded and US economy boomed. People were optimistic about the world economy with US in the center. They were happy with their fast growing assets, and took out loans to buy stocks. But in October 10th 1929, New York stock market crashed by 30% in one day, and it didn't stop and reached 90% in 1932. GPA got cut in half, and unemployment rate reached 25%. US market which took up almost half of world GPA got hit with economic downturn and its economic downturn quickly led to the world market's economic downturn.
+  Every country around the world was looking for solutions to escape the great depression. We're going to look at three typical countries' solution. US, Russia, and Germany. Let's look at US first. US enforced the New Deal policy. It's an economic policy which the government actively interferes with the market in hopes of solving free market's problem. That is to say that the government will try to manually interfere and control the fundamental problem of capitalism of oversupply. We call this type of solution 'Modified Capitalism', meaning it fixed capitalism's problem. US promoted public works constructing roads, railroads, and dams, etc. It's not that they needed more dams, but construction where people can work. Public work required workers and had to pay them. When they get their pay, they could buy necessities, and will create demands. If there are demands, companies will run factories again to produce products. To run factories they needed workers, and will create more jobs, and accelerate consumption in the whole society. Government interfering Modified Capitalism worked to some degree, and the economy recovered.
+
+Would this policy work nowadays for current unemployment problem? Back then the industry was mostly manufacturing  and works were mostly compromised of physical labor. Nowadays, it's a service industry and most youth don't want physical labor. Already manufacturing industries are having problem getting workers. If New Deal policy happened right now, there's a high possibility that most benefits will go to mechanized industrial facilities.
+
+Let's come back to the main subject. We're looking at ways how countries tried to solve the great depression. Firstly, US solved it by modifying capitalism with the New Deal policy. Next up is Russia. Unlike US where they modified capitalism, they tried to solve it by abolishing it. According to Marxian economics, depression is inevitable. Capitalism with this fundamental problem will collapse someday. Instead, Russia moved up the date of collapse. So through revolution Russia became Soviet Union.
+  However, it was not after great depression that Russia shifted to communism. Russian communism was started from revolution in 1917, and Soviet Union was established in 1922. So they abolished capitalism before the great depression. So while capitalist countries were going through the great depression, Russia was able to achieve gradual and stable economic growth.
+
+  Lastly, the country we're going to look at is Germany. Germany was in massive debt from WW1, and to make matters worse, the great depression happened and they were on the verge of bankrupt. Prices skyrocketed and money worth less than a piece of paper. A cart full of money was not enough to buy a loaf of bread. People's pain and suffering reached a boiling point. But then a hero appeared who will save all the Germans, and his name was Hitler.
+||*(From here on out it's summarized even further)*||
+  Hitler says the reason why we're having economic crisis is because of war reparations, and he can take care of it. It incited Germans. Furthermore, he proposed Lebensraum. 'Territory = Souls', but taken by the Allies. Furthermore they're tainted by Jews and because of them our spirits are suffering, so we need a cleansing. Led to Holocaust.
+```
+[Solution for the Great Depression]
+(1) US     : New Deal
+(2) Russia : Communism
+(3) Germany: Militarization
+```
+
+First we need to talk about current status of Jews in Europe (-> Volume 0. [Christianity].) But We took a brief look when we talked about (Ancient -> Middle ages). But here's a brief story. *(Skipped. Same as the previously skipped part.)* Who killed Jesus? Jews. Problem was now the whole Europe was a Christian region. So they were treated as criminals. They didn't even had their own country thus no land, thus in middle ages they were one of the lowest ranks of merchant. But with the arrival of capitalism, trading became cross border trading and they became rich. Even to this day the world economy is moved by capital from Jews.
+
+  Let's think about German's mood at this stage. Their land is tainted by Jews, they're living just fine with the money earned from financial industries when they're struggling to pay war reparations, and they look like Asians a bit. So as world criminals they needed to be cleansed and cleansing they did. So far were justifications and let's take a look at actual reasons.
+
+  Hitler incited people and Nazi became the ruling party. He said he was going to take care of war reparations but how? Go to war and win. If they win they don't have to pay the reparations.
+  But they needed massive funds which they didn't have. So they took Jewish people's money. Since that won't look good, he needed a way to persuade them through philosophical justification. So as we saw before, the idea of connecting ethnicity and territory came out and worked. Germans were ecstatic.
+  This idea materializes ethnicity and develops into obsession towards territory and land. Territorial disputes became violation of sacrosanctity of ethnicity. If there's a person who claims they needed to talk it out, he becomes a traitor and a renegade. This society may get economic benefits but not really better than their unethicalness and lunacy.
+
+This way Hitler and Nazi started preparing for war. What if he didn't exist? Again it's not Hitler who's evil and led war, but it's that German people demanded a hero.
+  We usually look at history in the 'Great man theory'. The great man theory is a perspective where an extraordinary person leads history. On the other hand, the 'People's history' says the entity that leads history are the people. If we take great man theory perspective, it becomes Hitler who started a war. If we take people's history perspective, the reason becomes Germans will that wanted to overcome the suffering from economic downturn. Great man theory and People's history is not something that's right or wrong, but two perspectives that makes historical analysis colorful.
+```
+[Solution for the Great Depression]
+(1) US     : New Deal       - Modifying Capitalism
+(2) Russia : Communism      - Abolishing Capitalism
+(3) Germany: Militarization - Keeping Capitalism
+```
+  We saw that fundamental problem of capitalism oversupply brought the great depression and its 3 solutions. US modified capitalism with New Deal; there are problems but we can fix it. Russia abolished it seeing there's no reason to keep what's fundamentally flawed. Germany chose militarization. If they win the war they only not have to pay the reparations but come out on top in cross border trading. It's not that bad even if they lose. As we saw war temporarily creates massive demand and temporarily solves oversupply. Even if they win or lose it's better than the worst current situation, so for Germany there's no reason not to war. Then what happened to capitalism? We can say that Germany kept capitalism. The fundamental problem of Capitalism of oversupply inevitably led the world to WW2.
